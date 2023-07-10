@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata"><brand>
+        <headerColor>#672D9E</headerColor>
+        <logo>Screenshot_20230310_0935582</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+      </brand><description>App I will use for testing thingies</description><formFactors>Small</formFactors><formFactors>Large</formFactors><isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled><isNavPersonalizationDisabled>false</isNavPersonalizationDisabled><isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled><navType>Console</navType><tabs>standard-Account</tabs><tabs>standard-CmsExperiences</tabs><tabs>standard-AssetAction</tabs><uiType>Lightning</uiType><utilityBar>Jan_test_app_UtilityBar</utilityBar><workspaceConfig>
+        <mappings>
+          <fieldName>OperatingHoursId</fieldName>
+          <tab>standard-Account</tab>
+        </mappings>
+        <mappings>
+          <tab>standard-AssetAction</tab>
+        </mappings>
+        <mappings>
+          <tab>standard-CmsExperiences</tab>
+        </mappings>
+      </workspaceConfig></CustomApplication>
