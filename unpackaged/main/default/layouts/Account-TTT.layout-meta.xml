@@ -3,6 +3,7 @@
     <neighbour>This is irrelevant field, please ignore</neighbour>
     <complexObject>
         <someField>This exists in both</someField>
+        <someField>This field is about to change</someField>
     </complexObject>
     <neighbour>Hey! Why are you reading this... I said its irrelevant</neighbour>
 </Layout>
