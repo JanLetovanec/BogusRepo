@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
     <neighbour>This is irrelevant field, please ignore</neighbour>
     <complexObject>
         <someField>This exists in both</someField>
     </complexObject>
     <neighbour>Hey! Why are you reading this... I said its irrelevant</neighbour>
-</CustomObject>
+</Layout>
