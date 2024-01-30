@@ -2,12 +2,12 @@
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
     <neighbour>This is irrelevant field, please ignore</neighbour>
     <complexObject>
-        <someField>These are random</someField>
-        <someField>Okay, maybe not random</someField>
-        <someField>But certainly different</someField>
+        <name>Clearly same object</name>
+        <someField>A random value: 4 //chosen based on a fair die roll</someField>
     </complexObject>
     <complexObject>
-        <someField>Still, these objects are unrelated</someField>
+        <name>Clearly the other object</name>
+        <someField>A random value: 2 //chosen based on a fair die roll</someField>
     </complexObject>
     <neighbour>Hey! Why are you reading this... I said its irrelevant</neighbour>
 </Layout>
