@@ -5,5 +5,7 @@
         <name>Clearly same object</name>
         <someField>A random value: 4 //chosen based on a fair die roll</someField>
     </complexObject>
+    <unrelatedObject>
+    </unrelatedObject>
     <neighbour>Hey! Why are you reading this... I said its irrelevant</neighbour>
 </Layout>
