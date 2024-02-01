@@ -2,11 +2,13 @@
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
     <neighbour>This is irrelevant field, please ignore</neighbour>
     <complexObject>
-        <name>Clearly same object</name>
-        <someField>A random value: head //flipped a coin</someField>
+        <name>Object I dont want to match</name>
+        <someField>With some very common value</someField>
+        <someField>And irrelevant fields</someField>
     </complexObject>
-    <unrelatedObject>
-        <someField>A random value: 4 //chosen based on a fair die roll</someField>
-    </unrelatedObject>
+    <complexObject>
+        <name>Lonely object</name>
+    </complexObject>
+    <neighbour>This is irrelevant field, please ignore</neighbour>
     <neighbour>Hey! Why are you reading this... I said its irrelevant</neighbour>
 </Layout>
