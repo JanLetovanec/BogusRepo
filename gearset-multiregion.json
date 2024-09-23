@@ -1,7 +1,7 @@
 {
     "overlays": {
         "melon republic": ["core", "melon"],
-        "lemonasia conglomerate": ["core", "lemon"]
+        "lemonasia conglomerate": ["core", "lemon"],
         "onyx oligarchy": ["core", "onyx"]
     }
 }
